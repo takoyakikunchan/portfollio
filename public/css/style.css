@@ -579,6 +579,14 @@ li {
     max-width: 100%;
     margin: 0 auto 20px;
   }
+  .about-image {
+    border-radius: 50%;
+    width:  80px;    
+    height: 80px; 
+    box-shadow: 0 0 25px 0 #d9d9d9;
+    object-fit: cover;
+    object-position: 0% 0%;
+  }
 
   /* Skill */
   .skill-list {

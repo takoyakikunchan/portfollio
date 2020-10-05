@@ -310,7 +310,10 @@ li {
 .about-body p:not(:last-child) {
   margin-bottom: 20px;
 }
-
+.skyblue{
+  color:skyblue;
+  margin-bottom:5px;
+}
 /*--------------------------------
  Skill
 ---------------------------------*/
